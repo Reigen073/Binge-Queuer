@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		9A9249C92F3B7CA600CF02EB /* Binge Queuer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Binge Queuer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9A9249C92F3B7CA600CF02EB /* Binge Queuer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "Binge Queuer.app"; path = "/Users/rhassan/Documents/GitHub/Binge-Queuer/build/Debug-iphoneos/Binge Queuer.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		9A9249CB2F3B7CA600CF02EB /* Binge Queuer */ = {
+		9AE7D6712F3F50E500A8F678 /* Binge Queuer */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "Binge Queuer";
 			sourceTree = "<group>";
@@ -32,17 +32,8 @@
 		9A9249C02F3B7CA600CF02EB = {
 			isa = PBXGroup;
 			children = (
-				9A9249CB2F3B7CA600CF02EB /* Binge Queuer */,
-				9A9249CA2F3B7CA600CF02EB /* Products */,
+				9AE7D6712F3F50E500A8F678 /* Binge Queuer */,
 			);
-			sourceTree = "<group>";
-		};
-		9A9249CA2F3B7CA600CF02EB /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				9A9249C92F3B7CA600CF02EB /* Binge Queuer.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -59,9 +50,6 @@
 			buildRules = (
 			);
 			dependencies = (
-			);
-			fileSystemSynchronizedGroups = (
-				9A9249CB2F3B7CA600CF02EB /* Binge Queuer */,
 			);
 			name = "Binge Queuer";
 			packageProductDependencies = (
@@ -95,7 +83,7 @@
 			mainGroup = 9A9249C02F3B7CA600CF02EB;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 9A9249CA2F3B7CA600CF02EB /* Products */;
+			productRefGroup = 9A9249C02F3B7CA600CF02EB;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (

@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct BingeRow: View {
+struct BingeRow: View {	
     var series: Series
     var body: some View {
         HStack{
